@@ -164,14 +164,14 @@ This is a prototype of a **next-generation autonomous bank risk engine**.
   <a href="https://www.linkedin.com/in/rayyanmerchant2004/" target="_blank">
     <img src="https://img.shields.io/badge/Rayyan%20Merchant-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rayyan Merchant"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-abbas-6a9374295/" target="_blank">
-    <img src="https://img.shields.io/badge/Muhammad%20Abbas%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Abbas"/>
+  <a href="https://www.linkedin.com/in/riya-bhart-339036287/" target="_blank">
+    <img src="https://img.shields.io/badge/Riya%20Bhart-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Riya Bhart"/>
   </a>
   <a href="https://www.linkedin.com/in/rija-ali-731095296" target="_blank">
     <img src="https://img.shields.io/badge/Syeda%20Rija%20Ali-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Syeda Rija Ali"/>
   </a>
-  <a href="https://www.linkedin.com/in/riya-bhart-339036287/" target="_blank">
-    <img src="https://img.shields.io/badge/Riya%20Bhart-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Riya Bhart"/>
+  <a href="https://www.linkedin.com/in/muhammad-abbas-6a9374295/" target="_blank">
+    <img src="https://img.shields.io/badge/Muhammad%20Abbas%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Abbas"/>
   </a>
 </div>
 
