@@ -165,7 +165,7 @@ This is a prototype of a **next-generation autonomous bank risk engine**.
     <img src="https://img.shields.io/badge/Rayyan%20Merchant-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rayyan Merchant"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-abbas-6a9374295/" target="_blank">
-    <img src="https://img.shields.io/badge/Syed%20Ukkashah%20Ahmed-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Abbas"/>
+    <img src="https://img.shields.io/badge/Muhammad%20Abbas%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Abbas"/>
   </a>
   <a href="https://www.linkedin.com/in/rija-ali-731095296" target="_blank">
     <img src="https://img.shields.io/badge/Syeda%20Rija%20Ali-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Syeda Rija Ali"/>
