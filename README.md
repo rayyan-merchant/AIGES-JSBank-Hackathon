@@ -126,9 +126,14 @@ Combines quantitative risk signals with LLM-generated narratives for transparenc
 
 AIGES models a realistic ecosystem:
 
+* **Orchestrator Agent** → Routes user inputs, manages memory, and coordinates all agents.
 * **CustomerAgent** → Requests loan
 * **BankAgent** → Uses PD + PPO strategy
 * **RegulatorAgent** → Enforces capital rules
+* **Evaluation Agent** → Checks logical consistency, step dependencies, and overall confidence.
+* **Explanation Agent** → Converts structured model outputs into human-readable, multi-mode explanations.
+
+Explanation Agent: Converts structured model outputs into human-readable, multi-mode explanations
 
 This creates a closed-loop intelligent financial system.
 
@@ -154,7 +159,6 @@ AIGES demonstrates how AI can evolve banking from rule-based credit scoring to:
 ✔ Regulatory-aligned AI decisions
 ✔ Interpretable financial intelligence
 
-This is a prototype of a **next-generation autonomous bank risk engine**.
 
 ---
 
