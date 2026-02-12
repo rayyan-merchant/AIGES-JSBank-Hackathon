@@ -113,7 +113,7 @@ function Dashboard({ data, setData }) {
   const twin = data.digital_twin
   const envDefault = twin?.default_probability ?? 0
   const final = data.final_contract || {}
-  const exposure = 20000 // from demo
+  const exposure = 20000
   const profit = Number((final.interest_rate || 0) * exposure * (final.tenure_months || 0) / 12).toFixed(2)
   return (
     <>

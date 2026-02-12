@@ -3,8 +3,8 @@
   --surface: #0F1C2A;
   --primary: #E6F1F7;
   --muted: #8FA3B0;
-  --accent: #00478F; /* Primary Blue */
-  --orange: #D2641C; /* Accent Orange */
+  --accent: #00478F; 
+  --orange: #D2641C; 
   --text: #E6F1F7;
   --border: rgba(0, 71, 143, .10);
   --danger: #FF4D6D;
@@ -48,7 +48,7 @@ body,
   pointer-events: none;
 }
 
-/* soft edge glow vignette */
+
 #root::after {
   content: "";
   position: fixed;
